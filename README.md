@@ -34,7 +34,7 @@ The dataset typically includes the following types of features:
 3. **Visualization**: Use plots to visualize distributions, correlations, and potential patterns.
 
 ### Model Building
-1. **Choice of Algorithms**: Consider algorithms such as Logistic Regression, Decision Trees, Random Forests, Gradient Boosting, and Neural Networks.
+1. **Choice of Algorithms**: Consider algorithms such as Logistic Regression, Decision Trees, Random Forests, Support Vector Machines .
 2. **Model Training**: Train multiple models using the training dataset.
 3. **Model Evaluation**: Evaluate models using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
 
