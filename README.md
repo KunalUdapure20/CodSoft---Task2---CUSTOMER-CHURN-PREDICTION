@@ -61,6 +61,6 @@ The dataset typically includes the following types of features:
 - **Data Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Deployment**: Streamlit
-- 
+  
 ### Conclusion
 Customer churn prediction is a critical business tool that leverages data to maintain customer satisfaction and retention. By understanding and predicting churn, companies can take proactive steps to address issues and keep their customers engaged and satisfied.
