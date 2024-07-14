@@ -5,8 +5,10 @@
 ### Duration - 15 June 2024 to 15 July 2024.
 
 ## Project Overview: Customer Churn Prediction
+![Customer_Churn_Prediction_Models_in_Machine_Learning](https://github.com/user-attachments/assets/2d747d34-94b4-4f07-9be2-0a30c18a49b1)
 
-### Project Introduction
+
+###  Introduction
 Customer churn prediction aims to identify customers likely to cancel a service or stop using a product. By predicting churn, companies can implement strategies to retain these customers, improving customer lifetime value and reducing revenue loss.
 
 ### Project Objectives
