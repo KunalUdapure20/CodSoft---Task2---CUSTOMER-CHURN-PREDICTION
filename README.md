@@ -1,3 +1,9 @@
+### Name - KUNAL UDAPURE
+### Company - CodSoft IT Services and IT Consulting
+### ID - ID:CS11WX279570
+### Domain - MACHINE LEARNING
+### Duration - 15 June 2024 to 15 July 2024.
+
 ## Project Overview: Customer Churn Prediction
 
 ### Project Introduction
